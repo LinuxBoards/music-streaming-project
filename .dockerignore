@@ -1,0 +1,5 @@
+**/.vscode
+**/.git*
+**/.editorconfig
+**/*.md
+**/*.env*

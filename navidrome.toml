@@ -1,0 +1,3 @@
+MusicFolder = "/music"
+DataFolder = "/data"
+PasswordEncryptionKey = "3c75433a8cfa642557778b233e21806d83f6bec895362afe4e95c61d0304e67a8d98c8"

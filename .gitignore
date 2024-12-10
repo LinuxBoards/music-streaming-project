@@ -1,0 +1,6 @@
+data/
+music/
+**/.vscode/*
+!.vscode/*.json
+**/*.env*
+!**/.env.example
